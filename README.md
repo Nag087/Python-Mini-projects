@@ -1,2 +1,2 @@
 # Python-Mini-projects
-In this you will find various miniprojects which boosts the confidence on python coding
+In this repository you will find various miniprojects which helps to boost the confidence on python coding
